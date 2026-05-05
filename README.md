@@ -4,7 +4,7 @@ This repository contains the code and analysis notebooks for auditing the psycho
 
 The accompanying dataset is hosted on Hugging Face:
 
-<https://huggingface.co/datasets/WilliamWang0624/llm-psychometric-fidelity-audit/tree/main>
+<https://huggingface.co/datasets/Anonymous0624/llm-psychometric-fidelity-audit/tree/main>
 
 A ready-to-run Google Colab version of the analysis is also available:
 
@@ -49,7 +49,7 @@ To download the whole data package manually, use the Hugging Face web interface 
 
 ```bash
 git lfs install
-git clone https://huggingface.co/datasets/WilliamWang0624/llm-psychometric-fidelity-audit hf-data
+git clone https://huggingface.co/datasets/Anonymous0624/llm-psychometric-fidelity-audit hf-data
 ```
 
 ## Environment setup
